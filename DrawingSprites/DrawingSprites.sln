@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawingSprites", "DrawingSprites\DrawingSprites.vcxproj", "{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Debug|x64.ActiveCfg = Debug|x64
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Debug|x64.Build.0 = Debug|x64
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Debug|x86.Build.0 = Debug|Win32
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Release|x64.ActiveCfg = Release|x64
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Release|x64.Build.0 = Release|x64
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Release|x86.ActiveCfg = Release|Win32
+		{B902ACF5-E690-48E8-AF4A-0DF0CD0A66EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61B3FF5-FBEB-4DB6-AFA5-1D861EFDAD21}
+	EndGlobalSection
+EndGlobal
